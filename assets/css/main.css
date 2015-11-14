@@ -545,7 +545,7 @@ main.main {
 .logo {
     float: left;
     display: inline-block;
-    max-width: 100px;
+    /*max-width: 100px;*/
     padding: 22px 0px;
 }
 
